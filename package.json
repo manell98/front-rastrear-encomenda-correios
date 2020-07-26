@@ -1,0 +1,14 @@
+{
+  "name": "front-rastrear-encomendas-correios",
+  "version": "1.0.0",
+  "description": "Esboço do front do sistema que rastreia uma encomenda",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.26"
+  }
+}
